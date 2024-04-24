@@ -1,0 +1,15 @@
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\bin\Debug\net7.0\Cafeteria.exe
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\bin\Debug\net7.0\Cafeteria.deps.json
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\bin\Debug\net7.0\Cafeteria.runtimeconfig.json
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\bin\Debug\net7.0\Cafeteria.dll
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\bin\Debug\net7.0\Cafeteria.pdb
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.csproj.AssemblyReference.cache
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.AssemblyInfoInputs.cache
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.AssemblyInfo.cs
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.dll
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\refint\Cafeteria.dll
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.pdb
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\Cafeteria.genruntimeconfig.cache
+C:\Users\Sivasankaranarayanan\OneDrive - Syncfusion\Desktop\Cafeteria\obj\Debug\net7.0\ref\Cafeteria.dll
